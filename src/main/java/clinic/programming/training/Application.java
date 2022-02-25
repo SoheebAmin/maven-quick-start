@@ -1,4 +1,4 @@
-package clinic.programming.training;
+package main.java.clinic.programming.training;
 
 public class Application {
     

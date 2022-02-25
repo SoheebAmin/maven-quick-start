@@ -1,5 +1,6 @@
 package clinic.programming.training;
 
+import main.java.clinic.programming.training.Application;
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
